@@ -78,7 +78,7 @@ But were here for the case you don't have that\
 
 ###### 7. Google videos and movies
 You only pay for nothing usefull, the movies are visible on other websites made to be looked at\
-so theres a website that isn't legal in certain countries (North korea and china specificly) which is called [bs.to](bs.to).\
+so theres a website that isn't legal in certain countries (North korea and china specificly) which is called [bs.to](https://bs.to/).\
 but on android theres apps that can be there to save certain movies with ratings.
 
 [cinelog](https://f-droid.org/en/packages/com.ulicae.cinelog/)
