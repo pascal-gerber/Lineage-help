@@ -12,3 +12,4 @@
 short for **Team Win Recovery Project** this file allows you to open certain phones\
 **[Download TWRP's here](https://twrp.me/)**\
 Whitout TWRP you cannot unlock the [bootloader](https://github.com/pascal-gerber/Lineage-help/blob/main/Bootloader.md).\
+The TWRP is an Interface for the bootloader that allows you to have also the bootloader unlocked for other Operation Systems.\
