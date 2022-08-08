@@ -31,15 +31,15 @@ well so we have an app called "F-droid" which allows you to download googlefree 
 If you want to see [the best googlefree variants click here](https://github.com/pascal-gerber/Lineage-help/blob/main/Replacements.md).\
 Theres a wide variety of apps that are supperior to google apps.
 
-### 
+### How do i install it?
 
+[you can use my tutorial there.](How%20to%20download%20it.md)\
+Flashing your phone MIGHT just might cost your phones life if you don't do it correctly, you can save it in most cases but you should **CAREFULLY** read the tutorials.
 
+### Check the files on the samsung whitout openning a fancy app
+you can call a specific phone number\
+*#1234#\
+which will show you what files have all been downloaded for the current firmware.
 
-## NOTE: IM WORKING ON IT, PLEASE BE PATIENT
-
-
-
-
-
-
-*#1234#
+## ENJOY
+#### Made by pascal

@@ -70,8 +70,12 @@ just retart it simply.\
 You want to have some SSD card on your phone holding the .zip folder for the operation system on it inside your phone.\
 Then you wanna go on the TWRP (as usual you need a specific button combination that you have to search up on internet.)
 ![alt text](TWRP%20steps.jpg)
+you wanna also go on Install and select the ZIP file on your SD card.\
+Then reboot it in there.\
+Errors show up as 1.00000.
 
-
+#### Thats it for the tutorial, thank you for cooperating and making our world a better googleless place.
+##### Made by pascal
 
 
 
