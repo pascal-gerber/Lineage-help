@@ -10,7 +10,7 @@ The key is for every phone type different, so is the bootloader.\
 ### **VERY IMPORTANT! DO NOT WIPE THE "RECOVERY"**
 in the recovery theres the operation system, do not wipe it off, else, youre screwled.\
 \
-Anyways, thats what a bootloader is.\
+Anyways, thats what a bootloader is.
 
 ##### Enjoy!
 ###### Made by pascal
